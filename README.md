@@ -28,12 +28,14 @@ List of tasks:
 Inputs (for European version): 
  * fuel (in liters)
  * journey driven (in kilometers)
+
 Output:
  * an average fuel consumption (for example 6.8 l / 100 km)
  
 Inputs (for US version): 
  * fuel (in gallons)
  * journey driven (in miles)
+
 Output:
  * an average fuel consumption (for example 35 miles per gallon)
  

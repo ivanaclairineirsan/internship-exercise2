@@ -19,32 +19,28 @@ This excercise is to verify that you can:
 List of tasks:
 --------------
 
-1. If you do not have a GitHub account yet, please go to [GitHub join page][github_join_page] and register. You will get a free account, no worries - no credit card is required. If you are lost, [this][git_github_account] might help ;) All initial information is also in the [First Internship Excercise][github_first_excercise].
+1. If you do not have a GitHub account yet, please go to [GitHub join page][github_join_page] and register. You will get a free account, no worries - no credit card is required. If you are lost, an initial information is also in the [First Internship Excercise][github_first_excercise].
 
-2. Fork [this][this_repo] repository using any git client. If you do not know what forking, git or a repository is, please visit [this][git_getting_started] site and acquire some knowledge. A brief summary is also available [here][git_github_contributing_to_a_project].
+2. Fork [this][this_repo] repository using any git client.
 
-3. Pick your favourite web framework (it can be PHP, Django, Python, Java with JSP, Ruby on Rails, express with node.js or any other framework) and create a simple form that will calculate an average car fuel consumption. It can calculate miles per gallon OR liters per every 100 kilometers - it is up to you.
+3. Pick your favourite web framework (it can be PHP, Django, Python, Java with JSP, Ruby on Rails, express with node.js or any other framework).
 
-Inputs (for European version): 
- * fuel (in liters)
- * journey driven (in kilometers)
+4. Create a simple form that will calculate an average car fuel consumption. It can calculate miles per gallon OR liters per every 100 kilometers - it is up to you - only one version will be verified. Please apply the rules of **Model-View-Controller** paradigm in your solution. 
 
-Output:
- * an average fuel consumption (for example 6.8 l / 100 km)
+ |Inputs (European version)|Output|
+ |:-----|:-----|
+ |fuel (in liters)|an average fuel consumption (for example 6.8 l / 100 km)|
+ |journey driven (in kilometers)| |
  
-Inputs (for US version): 
- * fuel (in gallons)
- * journey driven (in miles)
+ |Inputs (US version)|Output|
+ |:-----|:-----|
+ |fuel (in gallons)|an average fuel consumption (for example 35 miles per gallon)|
+ |journey driven (in miles)| |
 
-Output:
- * an average fuel consumption (for example 35 miles per gallon)
- 
-Please apply the rules of Model-View-Controller paradigm in your solution. 
+5. Commit your changes with meaningful commit messages.
 
-4. Commit your changes with meaningful commit messages.
+6. Push your changes from your local computer to your GitHub repository.
 
-5. Push your changes from your local computer to your GitHub repository. If you do not know how to do it, please refer to [Git SCM page][git_working_with_remotes]. 
-
-6. Send a pull request to goodylabs/internship-excercise2. This point is not mandatory, however it might speed up the verification process :) If you do not know how to do it, [this][git_github_contributing_to_a_project] might help here.
+7. Send a pull request to goodylabs/internship-excercise2. This point is not mandatory, however it might speed up the verification process :)
 
 You're done ;)
